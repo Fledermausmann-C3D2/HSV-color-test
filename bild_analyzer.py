@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Bild laden
-image = cv2.imread("/home/bat/CODE/HSV-color-test/bild.JPG")
+image = cv2.imread("/home/bat/CODE/HSV-color-test/bild2.JPG")
 
 if image is None:
     print("Bild nicht gefunden!")
